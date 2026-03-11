@@ -1,0 +1,4 @@
+Run:
+python fruit_freshness_cnn.py --predict path/to/image.jpg
+Example:
+python fruit_freshness_cnn.py --predict sample_apple.jpg
