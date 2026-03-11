@@ -1,0 +1,27 @@
+dataset/
+├── train/
+│   ├── freshapples/
+│   ├── freshbananas/
+│   ├── freshjackfruit/
+│   ├── freshoranges/
+│   ├── freshstrawberry/
+│   ├── freshwatermelon/
+│   ├── rottenapples/
+│   ├── rottenbananas/
+│   ├── rottenjackfruit/
+│   ├── rottenoranges/
+│   ├── rottenstrawberry/
+│   └── rottenwatermelon/
+└── test/
+    ├── freshapples/
+    ├── freshbananas/
+    ├── freshjackfruit/
+    ├── freshoranges/
+    ├── freshstrawberry/
+    ├── freshwatermelon/
+    ├── rottenapples/
+    ├── rottenbananas/
+    ├── rottenjackfruit/
+    ├── rottenoranges/
+    ├── rottenstrawberry/
+    └── rottenwatermelon/
