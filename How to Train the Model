@@ -1,0 +1,1 @@
+python fruit_freshness_cnn.py --train
